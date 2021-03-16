@@ -8,12 +8,6 @@ namespace CollierFirlus_1322Lab12
     {
         static void Main(string[] args)
         {
-            //Class: 1322L
-            //Section: 06
-            //Term: Fall 2020
-            //Instructor: Peter Adeojo
-            //Name: Collier Firlus
-            //Lab#: 12
             StreamWriter sw = null;
             StreamReader sr = null;
             int Lines = 0, Words = 0, Chars = 0;
